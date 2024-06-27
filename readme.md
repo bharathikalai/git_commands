@@ -70,3 +70,5 @@ story: i have created a new branch for my team mets now  they  asking me bro i w
 follow command 6 so that you will understand the concept
 story: by using this command (git checkout branch_name) you can move to your branch
 ![alt text](image-6.png)
+
+abc
