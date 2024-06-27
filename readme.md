@@ -43,3 +43,28 @@ repo so i am locking the file with message (grocery concept locking the items ) 
 git push is staging 3  now that driver deliver those items to the end user or customer :  git repo i hope you understand the concept
 
 ![alt text](image-3.png)
+
+# command 5 
+
+## git branch 
+
+what is git branch ? why we need this ? 
+as you all know what is git ? git is a version control application where developer work together and store their code 
+story : i am creating a application called food_app its kind or food delivery application i am woking on specfic module like specfic page (home page) my team mets also working on different pages so if everyone working in same branch it will be very defficult to manage their add and commit and push so they need  different branch by using git branch command you can list the all branchs
+
+![alt text](image-4.png)
+
+# command 6
+
+## git branch branch_name  or git branch checkout -b branch_name
+
+follow command 5 so that you will understand the concept 
+story: every developers ask me to create a new branch in git so i used this command(git branch ) to create a new branch for them 
+story: i have created a new branch for my team mets now  they  asking me bro i want to move to my new branch how to do  i replied please read command 7 
+
+# command 7
+
+## git checkout branch_name
+
+follow command 6 so that you will understand the concept
+story: by using this command (git checkout branch_name) you can move to your branch
