@@ -61,6 +61,7 @@ story : i am creating a application called food_app its kind or food delivery ap
 follow command 5 so that you will understand the concept 
 story: every developers ask me to create a new branch in git so i used this command(git branch ) to create a new branch for them 
 story: i have created a new branch for my team mets now  they  asking me bro i want to move to my new branch how to do  i replied please read command 7 
+![alt text](image-5.png)
 
 # command 7
 
@@ -68,3 +69,4 @@ story: i have created a new branch for my team mets now  they  asking me bro i w
 
 follow command 6 so that you will understand the concept
 story: by using this command (git checkout branch_name) you can move to your branch
+![alt text](image-6.png)
