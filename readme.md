@@ -3,8 +3,8 @@
 
 ## git init ## 
 
-# when you use this command git will create a new folder ( .git ) 
-# why we need this folder when we do any action in git(add or commit and delete) these logs will be stored in this repo
+when you use this command git will create a new folder ( .git ) 
+why we need this folder when we do any action in git(add or commit and delete) these logs will be stored in this repo
 ![alt text](image.png)
 
 # use ls -a command to view this folder
@@ -27,8 +27,8 @@ its very simple by using git status command you can verfiy the changes which you
 # command 3:
 ## git commit -m "write about the changes" ##
 m is nothing but message, if you do any changes in file or add a new file by using -m you can describe the changes
-okey we know what is git add now what is git commit ? if you follow the command two you will understand still you not understand
-example:   i have grocery shop we showcase the item(git add ) now one of our customer came to our shop and bought  iteams and but still that iteam is in the store why because that customer bought everthing so he cant keep : okey comming to the git commit the git commit also the same  when you add any file into the staging that file will be stored in your local now when you do git commit you are telling to the git that i am lock this file this file is going to the git hub repo i hope you understand the concept : coming to our storying that customer told me that hay bharathi i will send some to collect these items which is -m "message" 
+okey we know what is git add now what is git commit ? if you follow the command 2 you will understand still you not understand
+example:   i have grocery shop i showcase the item(git add ) now one of our customer came to our shop and bought  iteams and but still that iteam is in the store why because that customer bought everthing so he cant keep : okey comming to the git commit the git commit also the same  when you add any file into the staging that file will be stored in your local now when you do git commit you are telling to the git that i am lock this file this file is going to the git hub repo i hope you understand the concept : coming to our storying that customer told me that hay bharathi i will send some to collect these items. 
 
 ![alt text](image-2.png)
 
