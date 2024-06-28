@@ -70,3 +70,17 @@ story: i have created a new branch for my team mets now  they  asking me bro i w
 follow command 6 so that you will understand the concept
 story: by using this command (git checkout branch_name) you can move to your branch
 ![alt text](image-6.png)
+
+
+# command 8 
+
+## git fetch and git pull
+
+follow command 7 so that you will understand the concept
+story: one of your team met working on you branch and push his changes to the repo now you want to know what are the changes ha made 
+if you use git pull your team met changes will merge  to your local repo you just know to see his changes and no need to merge his changes to your local repo you go with git fetch command
+when you do git fetch command git repo latest changes will be stored your local repo but it wont merge with your local repo instead
+you can see the changes if you do git pull all the latest changes will be merge your local repo i hope you understand the concept still 
+you dont understand please do practice
+
+![alt text](image-7.png)
