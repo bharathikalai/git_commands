@@ -98,6 +98,6 @@ using git log you can view all the commits
 
 ## git reflog
 
-please follow command 10 : i am working on my branch and made lots of commits and add files and delete i did a many action : can i track my actions :  yes you can using git reflog  you can list your git history  
+please follow command 9 : i am working on my branch and made lots of commits and add files and delete i did a many action : can i track my actions :  yes you can using git reflog  you can list your git history  
 # note:you cant list others action history
 ![alt text](image-8.png)
