@@ -84,3 +84,20 @@ you can see the changes if you do git pull all the latest changes will be merge 
 you dont understand please do practice
 
 ![alt text](image-7.png)
+
+# command 9 
+
+## git log 
+
+please follow command 8 :  one of your team met made some changes in your branch and commit the changes and push it to the git repo 
+you asked your team met hay team_met_name  what are the commits you made yesterday he said this that like that now i am thinking if git 
+provide any event tracking command that would be very helpfull for us : yes git has the solution that is git log
+using git log you can view all the commits 
+
+# command 10
+
+## git reflog
+
+please follow command 10 : i am working on my branch and made lots of commits and add files and delete i did a many action : can i track my actions :  yes you can using git reflog  you can list your git history  
+# note:you cant list others action history
+![alt text](image-8.png)
