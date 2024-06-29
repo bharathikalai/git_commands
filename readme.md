@@ -101,3 +101,10 @@ using git log you can view all the commits
 please follow command 9 : i am working on my branch and made lots of commits and add files and delete i did a many action : can i track my actions :  yes you can using git reflog  you can list your git history  
 # note:you cant list others action history
 ![alt text](image-8.png)
+
+# command 11
+
+## git diff 
+uncommit changes you can see by using this command
+example: if you have made changes locally  want to check what changes you have made you can use git riff command to view the changes
+![alt text](image-9.png)
