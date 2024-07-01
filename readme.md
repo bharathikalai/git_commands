@@ -195,3 +195,4 @@ using this command you can remove the untracked file for your local repo
 ## git bisect good commit_id
 
 # git rebase
+# new 
