@@ -39,10 +39,7 @@ To continue our analogy, the customer tells you, "Hey Bharathi, I'll send someon
 
 ## git push origin -u branch name
 
-please follow command 1 so that you will understand the concept : coming to the topic now that customer driver came to my shop and he said hay bro customer name sent to pick his stuff i replied (git push origin -u branch_name) 
-what it mean :  already my file stored in staging 1 now i am telling to the git hay git this is file i need to put it in my git
-repo so i am locking the file with message (grocery concept locking the items ) this is staging 2 commit 
-git push is staging 3  now that driver deliver those items to the end user or customer :  git repo i hope you understand the concept
+Please follow command 1 so that you will understand the concept. Coming to the topic: A customer driver came to my shop and said, 'Hey bro, Customer Name sent to pick up his stuff.' I replied with 'git push origin -u branch_name.' What does this mean? Already, my file is stored in staging 1. Now, I am telling Git, 'Hey Git, this is the file I need to put into my Git repository,' so I am logging the file with the message 'Grocery concept locking the items.' This is staging 2 commit. Git push is staging 3. Now, that driver delivered those items to the end user or customer: the Git repo. I hope you understand the concept."
 
 ![alt text](image-3.png)
 
