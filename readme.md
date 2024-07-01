@@ -110,3 +110,12 @@ example: if you have made changes locally  want to check what changes you have m
 ![alt text](image-9.png)
 
 # command 12
+
+## git reset --soft HEAD~1
+## git reset --hard HEAD~1
+
+head is nothing but latest commit
+~1 mean one step back 
+:by using this command you can revert the commit :
+![alt text](image-10.png)
+![alt text](image-11.png)
