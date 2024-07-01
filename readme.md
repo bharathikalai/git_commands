@@ -14,11 +14,11 @@ why we need this folder when we do any action in git(add or commit and delete) t
 
 this command is for add the new file into the staging
 # what is staging
-there is a three stage our goal is to deploy our files to the git hub repository so we need to follow this first git add and second git commit and third is git push
-i have created a folder called git add inside the folder i have added a file called gitadd.txt now i need to add my to the git 
-staging for that i am using git add command  still you not understand okey simple example: 
-you are running a grocery shop  which is git  you need to show case some items which is file i hope you understand this is the first  stage  once you added the file by using git add command then you need to verify what are the files added in staging how??
-its very simple by using git status command you can verfiy the changes which you made.
+There are three stages in deploying our files to a GitHub repository. First, we use git add to stage our changes. Second, git commit is used to record the staged changes with a descriptive message. Third, git push uploads the committed changes to GitHub.
+
+For example, imagine you're running a grocery shop (which is like our Git repository). You want to showcase some items (which are like files). Here's how it works: First, you add the items to showcase using git add. After adding them, you need to verify what items are staged. You can do this easily using git status to see the changes you've made.
+
+
 ## command : git status
 ![alt text](image-1.png)
 
@@ -26,9 +26,11 @@ its very simple by using git status command you can verfiy the changes which you
 
 # command 3:
 ## git commit -m "write about the changes" ##
-m is nothing but message, if you do any changes in file or add a new file by using -m you can describe the changes
-okey we know what is git add now what is git commit ? if you follow the command 2 you will understand still you not understand
-example:   i have grocery shop i showcase the item(git add ) now one of our customer came to our shop and bought  iteams and but still that iteam is in the store why because that customer bought everthing so he cant keep : okey comming to the git commit the git commit also the same  when you add any file into the staging that file will be stored in your local now when you do git commit you are telling to the git that i am lock this file this file is going to the git hub repo i hope you understand the concept : coming to our storying that customer told me that hay bharathi i will send some to collect these items. 
+The -m in git commit -m "message" stands for message. It's used to describe the changes made to a file or the addition of a new file.
+
+Now, let's understand git commit. Imagine you're managing a grocery shop. First, you showcase an item (git add). Then, a customer comes and buys it. However, the item remains in the store until you commit the sale. Similarly, when you use git commit, you're essentially locking in the changes you staged (git add) and telling Git that these changes should be stored in your local repository. Eventually, you'll push them to the GitHub repository.
+
+To continue our analogy, the customer tells you, "Hey Bharathi, I'll send someone to collect these items."
 
 ![alt text](image-2.png)
 
@@ -202,3 +204,11 @@ git bisect:
 Purpose: Used to perform a binary search through commit history to identify the exact commit that introduced a bug or caused an issue.
 Usage: You mark a known "good" state (commit where the bug didn't exist) and a current "bad" state (commit where the bug does exist). Git then systematically checks out commits in between, asking you to test each one until it identifies the problematic commit.
 
+
+# command 23
+
+## git ls-tree HEAD
+
+git ls-tree: Shows a tree object.
+
+![alt text](image-16.png)
