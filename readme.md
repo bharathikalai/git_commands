@@ -179,11 +179,14 @@ using this command you can remove the untracked file for your local repo
 # command 19
 ## git rebase branch_name
 
+git rebase is about keeping your work up-to-date and integrated with the latest changes in the project, resulting in a cleaner and more straightforward project history.
+
 
 # command 20 
 ## git stash
 ## git stash pop
 
+git stash is your secret tool for managing unfinished work in Git, ensuring your creative process stays organized and your project's history remains clean.
 
 # command 21
 ##  git cherry-pick commit_id
@@ -194,5 +197,3 @@ using this command you can remove the untracked file for your local repo
 ## git bisect bad
 ## git bisect good commit_id
 
-# git rebase
-# new 
