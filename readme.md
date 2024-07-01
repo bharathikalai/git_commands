@@ -130,3 +130,41 @@ Finally, you fixed it back to Hello World.
 
 The git revert command helps you fix mistakes while keeping a record of everything that happened.
 ![alt text](image-12.png)
+
+
+# command 14
+
+## git blame file_name
+# Shows what revision and author last modified each line of a file.
+
+![alt text](image-13.png)
+
+
+# command 15
+
+## git show commit_id
+
+# The git show command in Git is used to display various types of objects and information, such as:
+
+Commits: It shows the details of a specific commit, including the commit message, author, date, and the changes introduced in that commit.
+Tags: It can display the details of a specific tag.
+Trees: It can show the contents of a tree object, similar to the output of git ls-tree.
+Blobs: It can show the contents of a blob object, similar to the output of git cat-file -p.
+![alt text](image-14.png)
+
+
+# command 16
+
+## git archive --format=zip HEAD > abc.zip
+
+# by uing this command we can create a zip file with all our git repo file and folders 
+
+![alt text](image-15.png)
+
+
+# command 17 
+
+## git config --global user.name "your name"
+## git config --global user.email "your mail id"
+
+# the purpose of this command is to set a repo user name 
