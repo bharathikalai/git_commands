@@ -190,10 +190,15 @@ git stash is your secret tool for managing unfinished work in Git, ensuring your
 
 # command 21
 ##  git cherry-pick commit_id
+git cherry-pick is a powerful command for selectively bringing individual commits from one branch into another, helping you manage and integrate changes across your Git repository effectively.
 
 
 # command 22
 ## git bisect start
 ## git bisect bad
 ## git bisect good commit_id
+
+git bisect:
+Purpose: Used to perform a binary search through commit history to identify the exact commit that introduced a bug or caused an issue.
+Usage: You mark a known "good" state (commit where the bug didn't exist) and a current "bad" state (commit where the bug does exist). Git then systematically checks out commits in between, asking you to test each one until it identifies the problematic commit.
 
