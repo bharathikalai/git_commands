@@ -88,7 +88,7 @@ you dont understand please do practice
 
 ## git log 
 
-please follow command 8 :  one of your team met made some changes in your branch and commit the changes and push it to the git repo 
+please follow command 8 :  one of your team met made some changes in your branch and commit the changes and push into the git repo 
 you asked your team met hay team_met_name  what are the commits you made yesterday he said this that like that now i am thinking if git 
 provide any event tracking command that would be very helpfull for us : yes git has the solution that is git log
 using git log you can view all the commits 
