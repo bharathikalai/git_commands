@@ -168,3 +168,30 @@ Blobs: It can show the contents of a blob object, similar to the output of git c
 ## git config --global user.email "your mail id"
 
 # the purpose of this command is to set a repo user name 
+
+
+# command 18
+
+## git clean
+using this command you can remove the untracked file for your local repo
+
+
+# command 19
+## git rebase branch_name
+
+
+# command 20 
+## git stash
+## git stash pop
+
+
+# command 21
+##  git cherry-pick commit_id
+
+
+# command 22
+## git bisect start
+## git bisect bad
+## git bisect good commit_id
+
+# git rebase
