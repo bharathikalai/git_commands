@@ -121,4 +121,12 @@ head is nothing but latest commit
 ![alt text](image-11.png)
 
 
-# second  commit
+# command 13 
+## git revert  commit_id or git checkout commit_id 
+
+example : First, you had Hello World.
+Then, you mistakenly changed it to Hello Mars.
+Finally, you fixed it back to Hello World.
+
+The git revert command helps you fix mistakes while keeping a record of everything that happened.
+![alt text](image-12.png)
