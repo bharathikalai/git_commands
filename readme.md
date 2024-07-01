@@ -110,5 +110,3 @@ example: if you have made changes locally  want to check what changes you have m
 ![alt text](image-9.png)
 
 # command 12
-## git reset --soft HEAD~1
-## git reset --hard HEAD~1
