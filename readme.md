@@ -209,3 +209,21 @@ Usage: You mark a known "good" state (commit where the bug didn't exist) and a c
 git ls-tree: Shows a tree object.
 
 ![alt text](image-16.png)
+
+
+# command 24 
+
+# git branch -d branch_name(delete the branch)
+
+
+# command 25 (redo the deleted branch in local)
+
+# git checkout -b branch_name commit_hash
+
+
+
+# command 26 (redo the delete branch in repo)
+
+# step 1 : git reflog show origin/branch_name(get the commit hash)
+
+# step 2 : get checkout -b deleted_branch_name commit_hash(this command for redo the deleted branch)
