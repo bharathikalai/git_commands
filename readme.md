@@ -227,12 +227,3 @@ git ls-tree: Shows a tree object.
 # step 1 : git reflog show origin/branch_name(get the commit hash)
 
 # step 2 : get checkout -b deleted_branch_name commit_hash(this command for redo the deleted branch)
-
-
-### Command 27 (merge the branch)
-
-##### Command : git merge branch_name
-
-### Command 28 (undo the merged branch)
-
-##### Command : git reset --hard Commit_id  
