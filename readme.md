@@ -235,4 +235,4 @@ git ls-tree: Shows a tree object.
 
 ### Command 28 (undo the merged branch)
 
-##### Command : git reset --hard Commit_id   testing
+##### Command : git reset --hard Commit_id  
